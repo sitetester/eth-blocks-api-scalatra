@@ -8,5 +8,5 @@ Start from ```sbt new scalatra/scalatra.g8```, if this command fails with gittte
 - g8 file://scalatra.g8  
 - cd my-scalatra-web-app
 - sbt
-- ~ compile; jetty:start (This will auto compile and run server!)
+- ~ compile; jetty:start (this will auto compile and run server on file change!)
 
