@@ -1,4 +1,4 @@
-# My Scalatra Web App #
+# Ethereum blocks API  #
 
 https://scalatra.org/getting-started/first-project.html  
 Start from ```sbt new scalatra/scalatra.g8```, if this command fails with gittter `Auth Fail` error, proceed with next steps.
